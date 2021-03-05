@@ -1,6 +1,6 @@
 # QnA-Data-Science
 Collaboration on Data Science QnA
-# 1.) What are the different kinds of joins in SQL? Explain with an example .
+## 1.) What are the different kinds of joins in SQL? Explain with an example .
 # 2.) What is Normalization ?
 # 3.) What is subquery ?
 # 4.) Difference between Rank & Dense Rank ?
